@@ -1,7 +1,6 @@
-// JASKIS
-// paste the MongoDB commands you use underneath each prompt
 
-// GETTING STARTED
+
+
 // 1. Create a database called jaskis
 use jaskis
 
